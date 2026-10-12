@@ -1,0 +1,7 @@
+family,signed_measured,largest_single_source,sources,genes,plp_missense,pct_with_signed_call
+epilepsy / neuronal channel,530,331,"KCNQ2 patch-clamp cohort (n=331, PMID 38142737); SCN2A phenotyped cohort (n=69, PMID 38651838); HCN1 arrayed patch clamp (n=43, PMID 41890092); funNCion validation set (n=87, PMID 32801145)",7,4401,12.04
+cardiac arrhythmia,7,7,"scattered single-gene reports (n=7, abstract sweep)",6,4058,0.17
+metabolic / transporter,2,2,"scattered single-gene reports (n=2, abstract sweep)",7,2475,0.08
+skeletal muscle,3,3,"scattered single-gene reports (n=3, abstract sweep)",3,2001,0.15
+neurotransmitter receptor,292,272,"GABA-A receptor compilation (n=272, PMID 42546502); GABRB3 cohort (n=20, PMID 37647766)",7,1572,18.58
+inborn errors of immunity,105,105,"STAT1 compilation (n=105, PMID 32852681)",6,824,12.74

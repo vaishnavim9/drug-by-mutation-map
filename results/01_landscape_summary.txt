@@ -1,0 +1,23 @@
+genes in the curated epilepsy set            : 142
+ClinVar pathogenic / likely-pathogenic       : 26,142
+  of which missense                          : 15,158 (58%)
+
+mechanism class (how the gene causes disease):
+  LoF / haploinsufficiency                  : 49
+  missense-predominant, LoF tolerated       : 35
+  missense-dominant (GoF / dominant-negative): 34
+  mixed LoF + missense                      : 18
+  unclassified                              : 6
+  -> direction NOT inferable from gene name  : 53 of 142  (mixed, or missense-predominant and unresolved)
+
+genes with any industry interventional trial : 10 of 142
+genes with an industry gene-directed trial   : 2 (SCN1A, STXBP1)
+
+direction measured, by gene family:
+  epilepsy / neuronal channel :   530 of   4401 (12.04%)
+  cardiac arrhythmia          :     7 of   4058 (0.17%)
+  metabolic / transporter     :     2 of   2475 (0.08%)
+  skeletal muscle             :     3 of   2001 (0.15%)
+  neurotransmitter receptor   :   292 of   1572 (18.58%)
+  inborn errors of immunity   :   105 of    824 (12.74%)
+  TOTAL                       :   939 of  15331 (6.12%)
